@@ -2,13 +2,13 @@
 using FubuMVC.StructureMap.Bootstrap;
 using StructureMap;
 
-namespace _NAME_
+namespace __NAME__
 {
     public class Global : FubuStructureMapApplication
     {
         public override FubuRegistry GetMyRegistry()
         {
-            return new _NAME_FubuRegistry();
+            return new __NAME__FubuRegistry();
         }
 
         protected override void InitializeStructureMap(IInitializationExpression ex)

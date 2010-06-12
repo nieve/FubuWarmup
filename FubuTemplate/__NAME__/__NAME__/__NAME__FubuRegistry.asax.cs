@@ -1,12 +1,12 @@
-﻿using _NAME_.Controllers.Home;
+﻿using __NAME__.Controllers.Home;
 using FubuMVC.Core;
 using FubuMVC.UI;
 
-namespace _NAME_
+namespace __NAME__
 {
-    public class _NAME_FubuRegistry : FubuRegistry
+    public class __NAME__FubuRegistry : FubuRegistry
     {
-        public _NAME_FubuRegistry()
+        public __NAME__FubuRegistry()
         {
             Applies.ToThisAssembly();
             

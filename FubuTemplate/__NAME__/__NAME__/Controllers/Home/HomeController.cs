@@ -1,6 +1,6 @@
-using FubuMVC.Core.View;
+﻿using FubuMVC.Core.View;
 
-namespace _NAME_.Controllers.Home
+namespace __NAME__.Controllers.Home
 {
     public class HomeController
     {
