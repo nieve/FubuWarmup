@@ -1,0 +1,1 @@
+A warmup template for a FubuMVC project
